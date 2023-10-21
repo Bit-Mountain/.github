@@ -1,10 +1,29 @@
-## Hi there 👋
+# BitMountain 比特山
 
-**Here are some ideas to get you started:**
+算法竞技、代码对战网站
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+
+## 写给浏览者
+
+首次进入网站是“算法学习小破站”，在搜索框输入 `3773` 这个密码后才能进入比特山。
+
+> 由于历史原因，输入114514这个密码也是可以的。
+
+外层主页的主要内容有：算法代码模板分享、算法区学习资源分享、关于算法的文章、算法小动画
+
+比特山的主要内容有：算法做题对战1v1、上传题目、新建题组、打字对决、各种棋类模式和博弈游戏的排行榜式代码对战。
+
+## 链接地址
+
+网站地址：www.bitmountain.top
+
+官网交流QQ群：188789460
+
+比特山wiki：[wiki.bitmountain.top](https://wiki.bitmountain.top/)
+
+
+
+## 说明
+
+非常抱歉，由于一些加密原因，代码未开源。
